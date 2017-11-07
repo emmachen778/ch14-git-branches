@@ -1,7 +1,4 @@
-# Exercise-1
-
-## Working with Branches
-
+# Exercise-1 chapter 14
 In this exercise, you'll practice working with branches, including **merging** changes between them.
 
 For this exercise, complete the following steps:
